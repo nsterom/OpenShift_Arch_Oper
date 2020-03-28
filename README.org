@@ -6,3 +6,5 @@ https://gongcun.github.io/OpenShift_Arch_Oper/openshift_install.html
 https://gongcun.github.io/OpenShift_Arch_Oper/openshift_arch_oper.html
 * Containers, Kubernetes, and Administration
 https://gongcun.github.io/OpenShift_Arch_Oper/presentation.html
+* testlink, redmine, gitlab, jenkins集成
+https://nsterom.github.io/OpenShift_Arch_Oper/openshift_arch_oper.html
